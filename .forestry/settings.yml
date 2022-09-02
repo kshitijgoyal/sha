@@ -7,9 +7,9 @@ sections:
 - type: directory
   path: src/pages/blog
   label: Blog
-  create: all
+  create: documents
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
 - type: document
   path: src/pages/products/index.md
   label: Product
