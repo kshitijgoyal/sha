@@ -5,10 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: src/pages/blog
+  path: src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md
   label: Blog
   create: all
   match: "**/*"
+  new_doc_ext: ''
 - type: document
   path: src/pages/products/index.md
   label: Product
