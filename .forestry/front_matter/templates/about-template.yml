@@ -5,6 +5,8 @@ fields:
 - type: text
   name: templateKey
   label: templateKey
+  default: about-page
+  hidden: true
 - type: text
   name: path
   label: path
