@@ -26,4 +26,4 @@ fields:
   name: tags
   label: tags
 pages:
-- src/pages/blog/test-post.app
+- src/pages/blog/testing.app
